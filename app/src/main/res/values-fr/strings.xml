@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="edit_message">Entrez un message</string>
+    <string name="button_send">Envoyer</string>
+    <string name="temp_notification_text">La température de l\'eau est de %1$.2f°C</string>
+    <string name="temp_notification_title">Piscine</string>
+</resources>
